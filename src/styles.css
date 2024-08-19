@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#html5-qrcode-button-camera-permission {
+  height: 30px;
+  border: 1px solid #909090;
+  background-color: #fff;
+}
